@@ -1,0 +1,106 @@
+ID,Name,Age,City,Salary,Department
+1,Bob,35,Austin,40000,
+2,Alice,55,Houston,40000,Finance
+3,Eve,54,New York,90000,IT
+4,David,36,Los Angeles,45000,Marketing
+5,David,57,,75000,HR
+6,Charlie,47,New York,,
+7,Bob,57,Houston,60000,IT
+8,Jack,45,Los Angeles,80000,Sales
+9,Bob,43,New York,75000,IT
+10,Kathy,34,Philadelphia,45000,
+11,Grace,28,Los Angeles,65000,HR
+12,Alice,52,Dallas,45000,
+13,Alice,51,Houston,,IT
+14,Bob,25,Phoenix,55000,Sales
+15,David,23,,60000,IT
+16,David,27,San Diego,,
+17,Jack,29,Houston,60000,Marketing
+18,Kathy,60,Dallas,50000,IT
+19,Alice,30,Chicago,85000,Marketing
+20,Jack,47,Austin,50000,
+21,David,58,Austin,85000,IT
+22,Jack,24,San Diego,40000,Sales
+23,Grace,44,Houston,60000,Finance
+24,David,44,San Diego,75000,Finance
+25,Ivy,58,San Antonio,65000,Marketing
+26,Kathy,49,Houston,80000,
+27,Eve,53,Los Angeles,90000,Marketing
+28,Alice,36,Los Angeles,45000,
+29,Charlie,55,,50000,
+30,Grace,,San Antonio,45000,Finance
+31,Frank,27,Philadelphia,45000,Sales
+32,Eve,54,San Antonio,65000,Sales
+33,Charlie,37,San Antonio,,IT
+34,David,41,San Diego,45000,Marketing
+35,Frank,27,New York,90000,Sales
+36,Bob,38,,60000,HR
+37,Bob,47,,65000,IT
+38,Grace,30,,85000,IT
+39,Bob,49,Los Angeles,90000,Finance
+40,Frank,,New York,50000,Marketing
+41,Frank,36,San Antonio,55000,Sales
+42,Kathy,52,Philadelphia,45000,Sales
+43,Eve,31,Los Angeles,90000,
+44,Alice,52,Houston,40000,IT
+45,Ivy,26,Houston,65000,Marketing
+46,Jack,60,Houston,,Marketing
+47,Bob,39,Dallas,70000,Marketing
+48,Grace,60,San Diego,50000,
+49,Bob,52,Chicago,50000,Finance
+50,Jack,58,San Antonio,70000,Sales
+51,Eve,32,Chicago,60000,Marketing
+52,Kathy,29,Phoenix,55000,
+53,Frank,43,San Diego,50000,Finance
+54,Kathy,30,Houston,50000,
+55,David,54,Los Angeles,,HR
+56,Bob,53,San Diego,85000,IT
+57,Alice,,Dallas,50000,Sales
+58,David,58,Los Angeles,65000,
+59,Eve,40,New York,60000,
+60,Bob,51,,55000,Sales
+61,David,21,Dallas,40000,IT
+62,Bob,27,New York,55000,HR
+63,Grace,43,Los Angeles,60000,Finance
+64,Eve,39,Houston,85000,
+65,Ivy,35,Chicago,75000,IT
+66,Frank,23,San Antonio,65000,Finance
+67,Charlie,35,San Diego,85000,Finance
+68,Frank,56,San Diego,75000,Finance
+69,Frank,25,Houston,60000,HR
+70,David,25,San Antonio,,HR
+71,Eve,51,New York,40000,Finance
+72,Bob,24,Chicago,55000,Marketing
+73,Kathy,54,San Antonio,45000,Sales
+74,Charlie,28,New York,80000,HR
+75,Jack,28,San Antonio,55000,Marketing
+76,David,50,Phoenix,,Marketing
+77,Charlie,55,San Diego,40000,
+78,Ivy,30,Phoenix,80000,Sales
+79,Grace,36,San Antonio,65000,Finance
+80,Eve,53,Dallas,60000,
+81,Jack,58,,90000,
+82,David,47,San Diego,60000,Marketing
+83,Frank,33,Chicago,65000,Marketing
+84,Alice,54,Houston,80000,Marketing
+85,David,32,Phoenix,75000,Finance
+86,Alice,39,Houston,40000,Finance
+87,Frank,45,New York,65000,
+88,Grace,43,Austin,80000,
+89,Eve,48,Dallas,50000,HR
+90,Bob,53,New York,55000,HR
+91,David,48,Philadelphia,,Marketing
+92,Kathy,27,New York,90000,Finance
+93,Frank,35,New York,65000,Finance
+94,David,34,Austin,,
+95,Ivy,24,San Diego,75000,Sales
+96,Grace,41,Dallas,75000,Marketing
+97,Ivy,21,Dallas,85000,HR
+98,Charlie,57,Chicago,90000,Sales
+99,Eve,55,New York,90000,Finance
+100,Charlie,34,Dallas,90000,HR
+81,Jack,58,,90000,
+85,David,32,Phoenix,75000,Finance
+34,David,41,San Diego,45000,Marketing
+82,David,47,San Diego,60000,Marketing
+94,David,34,Austin,,
